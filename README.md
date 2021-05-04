@@ -99,7 +99,7 @@ Root Mean Squared Error: 0.7696337462822403
 
 In conclusion, we saw that it is possible to predict a value of an attribute with high accuracy. Using Machine Learning is useful for future estimations and also an important way to avoid future mistakes
 
-# Contributers
+# Contributors
 
 Ardacan Dağ
 
