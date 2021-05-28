@@ -1,8 +1,8 @@
 # Google Play Store Dataset Rating Prediction
 
-The main dataset, which contains information about Google Play Store apps on various categories, will be investigated from data scientist’ point of view to create the down-to-earth statistics that is related to usage of applications in many cases. As an example, one of the areas of utilization of this interpretation, can be more reliable Google Play Store market strategies that can be derived from those statistics.
+The main dataset, which contains information about Google Play Store apps in various categories, will be investigated from a data scientist's point of view to create the down-to-earth statistics that are related to the usage of applications in many cases. As an example, one of the areas of utilization of this interpretation can be more reliable Google Play Store market strategies that can be derived from those statistics.
 
-The steps that will be taken to reach the goal of creating realist and useful statistics, are listed as:
+The steps that will be taken to reach the goal of creating realist and useful statistics are listed as:
 
 1. Formulating the questions that will be asked to bring into the open the relations that have a significant meaning for that dataset
 2. Cleaning the data which has provided, not collected by the contributors of the project
@@ -12,7 +12,7 @@ The steps that will be taken to reach the goal of creating realist and useful st
 
 # Google Play Store Apps Dataset
 
-The dataset consists of two sperate data source files. The main file which is named as googleplaystore includes 13 columns that each one gives different types of information which is scraped from the Google Play Store. The column names and the information stored in those columns are explained below.
+The dataset consists of two separate data source files. The main file which is named as googleplaystore includes 13 columns that each one gives different types of information which are scraped from the Google Play Store. The column names and the information stored in those columns are explained below.
 
 1. App: Application Name
 2. Category: Classification of the apps according to subject
@@ -43,11 +43,11 @@ Dataset can be found at https://www.kaggle.com/lava18/google-play-store-apps
 The problem is "Which attributes are having importance on the application's rating?" Our objective is finding the relationship between rating and the other attributes in the dataset Google Play Store Dataset.
 
 # Problem Description
-The first question that will be searched for is about the existence of correlation between pricing and rating of the google play store apps. If exists, is it possible to claim that the high price apps are more qualified or not?
+The first question that will be searched for is about the existence of a correlation between pricing and rating of the google play store apps. If exists, is it possible to claim that the high price apps are more qualified or not?
 
-Another question that can be asked is which categories and genres appeal to which age group ,that is named as content rating in the dataset.
+Another question that can be asked is which categories and genres appeal to which age group, which is named as content rating in the dataset.
 
-Additionally, the correlation between number of reviews and rating can be searched and the result can give information about the content of the reviews. Are the reviews mostly negative or positive?
+Additionally, the correlation between the number of reviews and rating can be searched and the result can give information about the content of the reviews. Are the reviews mostly negative or positive?
 
 Can the Rating be predicted precisely, using other attributes of the dataset?
 
