@@ -8,7 +8,7 @@ The steps that will be taken to reach the goal of creating realist and useful st
 2. Cleaning the data which has provided, not collected by the contributors of the project
 3. Data analysis should be done after the manipulation and clearance of the data
 4. Patterns in data can be identified by using visualization
-5. After that process, the conclusions should be interpreted to reveal the answers to the questions that has been asked
+5. After that process, the conclusions should be interpreted to reveal the answers to the questions that have been asked
 
 # Google Play Store Apps Dataset
 
@@ -21,17 +21,17 @@ The dataset consists of two separate data source files. The main file which is n
 5. Size: Size of the app in terms of mb,gb
 6. Installs: Number of user downloads/installs for the app
 7. Type: Free or paid info
-8. Price: Price of the apps in terms of dolar
+8. Price: Price of the apps in terms of dollar
 9. Content Rating: Age group that app appeals to(Children / Mature 21+ / Adult)
 10. Genres: An app can belong to multiple genres (apart from its main category)
 11. Last Updated: The last update date of the app
 12. Current Ver: Current version number of the app
 13. Android Ver: The minimum android version required to be able to use the app
 
-The second source only contains information about the 100 reviews for the each individual app. Columns of the googleplaystore_user_reviews file are listed below.
+The second source only contains information about the 100 reviews for each individual app. Columns of the googleplaystore_user_reviews file are listed below.
 
 1. App: Application Name
-2. Translated_Review:User comments (Preprocessed and translated to English)
+2. Translated_Review: User comments (Preprocessed and translated to English)
 3. Sentiment: Type of the comment (Positive/Negative/Neutral) (Preprocessed)
 4. Sentiment_Polarity: Sentiment polarity score
 5. Sentiment_Subjectivity: Sentiment subjectivity score
@@ -43,6 +43,7 @@ Dataset can be found at https://www.kaggle.com/lava18/google-play-store-apps
 The problem is "Which attributes are having importance on the application's rating?" Our objective is finding the relationship between rating and the other attributes in the dataset Google Play Store Dataset.
 
 # Problem Description
+
 The first question that will be searched for is about the existence of a correlation between pricing and rating of the google play store apps. If exists, is it possible to claim that the high price apps are more qualified or not?
 
 Another question that can be asked is which categories and genres appeal to which age group, which is named as content rating in the dataset.
