@@ -1,14 +1,14 @@
 # Google Play Store Dataset Rating Prediction
 
-The main dataset, which contains information about Google Play Store apps in various categories, will be investigated from a data scientist's point of view to create the down-to-earth statistics that are related to the usage of applications in many cases. As an example, one of the areas of utilization of this interpretation can be more reliable Google Play Store market strategies that can be derived from those statistics.
+The main dataset, which contains information about Google Play Store apps in various categories, has been investigated from a data scientist's point of view to create the down-to-earth statistics that are related to the usage of applications in many cases. As an example, one of the areas of utilization of this interpretation can be more reliable Google Play Store market strategies that can be derived from those statistics.
 
-The steps that will be taken to reach the goal of creating realist and useful statistics are listed as:
+The steps that has been taken to reach the goal of creating realist and useful statistics are listed as:
 
 1. Formulating the questions that will be asked to bring into the open the relations that have a significant meaning for that dataset
 2. Cleaning the data which has provided, not collected by the contributors of the project
 3. Data analysis should be done after the manipulation and clearance of the data
 4. Patterns in data can be identified by using visualization
-5. After that process, the conclusions should be interpreted to reveal the answers to the questions that have been asked
+5. The conclusions should be interpreted to reveal the answers to the questions that have been asked
 
 ## Google Play Store Apps Dataset
 
@@ -38,19 +38,19 @@ The second source only contains information about the 100 reviews for each indiv
 
 Dataset can be found at https://www.kaggle.com/lava18/google-play-store-apps
 
-# Project Summary
+## Project Summary
 
-The problem is "Which attributes are having importance on the application's rating?" Our objective is finding the relationship between rating and the other attributes in the dataset Google Play Store Dataset.
+The problem is "Which attributes are having importance on the application's rating?". Our objective is finding the relationship between rating and the other attributes in the dataset Google Play Store Dataset.
 
-# Problem Description
+## Problem Description
 
-The first question that will be searched for is about the existence of a correlation between pricing and rating of the google play store apps. If exists, is it possible to claim that the high price apps are more qualified or not?
+- The first question that will be searched for is about the existence of a correlation between pricing and rating of the google play store apps. If exists, is it possible to claim that the high price apps are more qualified or not?
 
-Another question that can be asked is which categories and genres appeal to which age group, which is named as content rating in the dataset.
+- Another question that can be asked is which categories and genres appeal to which age group, which is named as content rating in the dataset.
 
-Additionally, the correlation between the number of reviews and rating can be searched and the result can give information about the content of the reviews. Are the reviews mostly negative or positive?
+- Additionally, the correlation between the number of reviews and rating can be searched and the result can give information about the content of the reviews. Are the reviews mostly negative or positive?
 
-Can the Rating be predicted precisely, using other attributes of the dataset?
+- Can the rating of an app be predicted precisely, using other attributes of the dataset?
 
 # Methods
 
@@ -98,7 +98,7 @@ Root Mean Squared Error: 0.7696337462822403
 3. Rating can be predicted with 90% accuracy without using all attributes of the dataset.
 4. Linear Regression Method and KNN Method give more accurate prediction of Rating than Random Forest Method.
 
-In conclusion, we saw that it is possible to predict a value of an attribute with high accuracy. Using Machine Learning is useful for future estimations and also an important way to avoid future mistakes
+In conclusion, we saw that it is possible to predict a value of an attribute with high accuracy. Using Machine Learning is useful for future estimations and also an important way to avoid future mistakes.
 
 ## Contributors
 
