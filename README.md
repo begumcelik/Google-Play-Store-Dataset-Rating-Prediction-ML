@@ -10,7 +10,7 @@ The steps that will be taken to reach the goal of creating realist and useful st
 4. Patterns in data can be identified by using visualization
 5. After that process, the conclusions should be interpreted to reveal the answers to the questions that have been asked
 
-# Google Play Store Apps Dataset
+## Google Play Store Apps Dataset
 
 The dataset consists of two separate data source files. The main file which is named as googleplaystore includes 13 columns that each one gives different types of information which are scraped from the Google Play Store. The column names and the information stored in those columns are explained below.
 
@@ -93,21 +93,21 @@ Root Mean Squared Error: 0.7696337462822403
 
 # Conclusion
 
-1. Rating and pricing attributes are not corrolated.
+1. Rating and pricing attributes are not correlated.
 2. Last Updated attribute affects the Rating of the application the most.
 3. Rating can be predicted with 90% accuracy without using all attributes of the dataset.
 4. Linear Regression Method and KNN Method give more accurate prediction of Rating than Random Forest Method.
 
 In conclusion, we saw that it is possible to predict a value of an attribute with high accuracy. Using Machine Learning is useful for future estimations and also an important way to avoid future mistakes
 
-# Contributors
+## Contributors
 
-Ardacan Dağ
+- Ardacan Dağ
 
-Begüm Çelik
+- Begüm Çelik
 
-Gülçin Uras
+- Gülçin Uras
 
-Güren İçim
+- Güren İçim
 
-İbrahim Murat Karakaya
+- İbrahim Murat Karakaya
